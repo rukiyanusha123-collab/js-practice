@@ -1,0 +1,11 @@
+button{
+  background-color: darksalmon;
+  border-radius: 10px;
+  width: 100px;
+  height: 80px;
+}
+.container{
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+}
