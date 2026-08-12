@@ -1,8 +1,16 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import "./App.css";
 
 function App(){
-  const [count,setCount]=useState(0);
+  const [count,setCount]=useState(()=>{
+    const savedCOunt=localStorage.getItem("myCount");
+    return savedCOunt !==null?Number(savedCOunt):0;
+  });
+  useEffect(()=>{
+    localStorage.setItem("myCount",count);   
+  },[count])
+
+
 
   return(
     <>
