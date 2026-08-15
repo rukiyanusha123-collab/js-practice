@@ -1,40 +1,69 @@
 {
   "users": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Rukiya"
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Siyanath"
     },
     {
-        "id":3,
-        "name":"Sara"
+      "id": "3",
+      "name": "Sara"
     },
     {
-        "id":4,
-        "name":"Swaliha"
+      "id": "4",
+      "name": "Swaliha"
     },
     {
-        "id":5,
-        "name":"Dilsha"
+      "id": "5",
+      "name": "Dilsha"
     },
     {
-        "id":6,
-        "name":"Safa"
+      "id": "6",
+      "name": "Safa"
     },
     {
-        "id":7,
-        "name":"Nidha"
+      "id": "7",
+      "name": "Nidha"
     },
     {
-        "id":8,
-        "name":"Faiza"
+      "id": "8",
+      "name": "Faiza"
     },
     {
-        "id":9,
-        "name":"Rafiya"
+      "id": "9",
+      "name": "Rafiya"
+    },
+    {
+      "id": "yv9gPPUfesc",
+      "name": "Risla"
+    },
+    {
+      "id": "GzZpGWDC6fY",
+      "name": "Risla"
+    },
+    {
+      "id": "QOlEuThCZ4s",
+      "name": "Risla"
+    },
+    {
+      "id": "4EMntbfA8Ek",
+      "name": "Risla"
+    },
+    {
+      "id": "LJv5eTaBlYA",
+      "name": "Risla"
+    },
+    {
+      "id": "Dh0xkYdqWHc",
+      "name": "Risla"
+    },
+    {
+      "id": "8lwLr4awdlg",
+      "name": "Risla"
     }
-  ]
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }
